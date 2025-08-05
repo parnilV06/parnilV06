@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @parnilV06
 # 💫 About Me:
-I'm a 18 year old Student from India <br>Aspiring Full Stack Developer <br>Passoinate about Learning new skills & Upskilling <br>Currently pursuing grade 12th <br>Learning Web Development and C++ Programming
+I'm a 18 year old Student from India <br>Aspiring Full Stack Developer <br>Passoinate about Learning new skills & Upskilling <br>Currently pursuing B.tech Computre Science and Engineering (Software Product Engineering) at Kalvium x MIT ADT University Pune <br>Learning Web Development and C++ Programming
 
 
 ## 🌐 Socials:
