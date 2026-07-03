@@ -1,5 +1,5 @@
 <p align="center">
-  <img src=".assets/linkedin banner new.png" alt="Parnil Vyawahare Banner" width="100%">
+  <img src="./assets/linkedin banner new.png" alt="Parnil Vyawahare Banner" width="100%">
 </p>
 
 <br>
