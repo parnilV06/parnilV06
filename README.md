@@ -1,5 +1,10 @@
+<p align="center">
+  <img src=".assets/linkedin banner new.png" alt="Parnil Vyawahare Banner" width="100%">
+</p>
+
+<br>
 # 💫 About Me:
-💫 About Me<br><br>👋 Hi, I'm Parnil Vyawahare — an 19-year-old developer from India.<br><br>🎓 First-year B.Tech Computer Science student at MIT ADT University (Kalvium – Software Product Engineering), following a work-integrated, industry-focused curriculum.<br><br>💻 Aspiring Full Stack Developer passionate about building useful tools and learning new technologies. Currently exploring Web Development and strengthening my programming fundamentals with C++ and JAVA.<br><br>🛠️ I enjoy building real-world projects and experimenting with ideas — from web applications and developer tools to automation systems.<br><br>📚 Always learning, always building, and constantly improving my skills as a developer.
+💫 About Me<br><br>👋 Hi, I'm Parnil Vyawahare — an 19-year-old developer from India.<br><br>🎓 Second-year B.Tech Computer Science student at MIT ADT University (Kalvium – Software Product Engineering), following a work-integrated, industry-focused curriculum.<br><br>💻 Aspiring Full Stack Developer passionate about building useful tools and learning new technologies. Currently exploring Web Development and strengthening my programming fundamentals with C++ and JAVA.<br><br>🛠️ I enjoy building real-world projects and experimenting with ideas — from web applications and developer tools to automation systems.<br><br>📚 Always learning, always building, and constantly improving my skills as a developer.
 
 
 ## 🌐 Socials:
