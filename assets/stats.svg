@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="390" viewBox="0 0 1200 390" role="img">
+  <rect x="2" y="2" width="1196" height="386" rx="18" fill="#07090d" stroke="#27303a" stroke-width="2"/>
+  <text x="42" y="40" fill="#4da3ff" font-family="ui-monospace, monospace" font-size="18" font-weight="700">GITHUB STATS</text>
+  <g transform="translate(40,70)"><rect width="1120" height="300" rx="12" fill="#080b10" stroke="#27303a"/><rect width="1120" height="44" rx="12" fill="#11151c"/>
+    <rect y="43" width="1120" height="1" fill="#27303a"/>
+    <circle cx="24" cy="22" r="6" fill="#6c737c"/><circle cx="46" cy="22" r="6" fill="#8b929b"/><circle cx="68" cy="22" r="6" fill="#b7bec7"/>
+    <text x="560" y="27" text-anchor="middle" fill="#77818d" font-family="ui-monospace, monospace" font-size="12">parnilv06@github:~$ neofetch</text>
+<g fill="#4da3ff" font-family="ui-monospace, monospace" font-size="16"><text x="28" y="84">+-----------+</text><text x="28" y="108">|  GITHUB   |</text><text x="28" y="132">|   &gt;_      |</text><text x="28" y="156">|  PARNIL   |</text><text x="28" y="180">+-----------+</text></g>
+<g font-family="ui-monospace, monospace" font-size="15"><text x="290" y="94"><tspan fill="#4da3ff">Name</tspan><tspan x="385" fill="#e8ebef">Parnil Vyawahare</tspan></text><text x="290" y="124"><tspan fill="#4da3ff">Role</tspan><tspan x="385" fill="#e8ebef">Full-Stack Developer</tspan></text><text x="290" y="154"><tspan fill="#4da3ff">Repos</tspan><tspan x="385" fill="#e8ebef">24</tspan></text><text x="290" y="184"><tspan fill="#4da3ff">Stars</tspan><tspan x="385" fill="#e8ebef">3</tspan></text><text x="290" y="214"><tspan fill="#4da3ff">Followers</tspan><tspan x="385" fill="#e8ebef">4</tspan></text><text x="290" y="244"><tspan fill="#4da3ff">Top Lang</tspan><tspan x="385" fill="#e8ebef">JavaScript</tspan></text></g>
+<text x="290" y="278" fill="#8ac7ff" font-family="ui-monospace, monospace" font-size="12">status: github profile online</text><rect x="290" y="290" width="265" height="2" fill="#4da3ff" opacity=".55"><animate attributeName="opacity" values=".2;.9;.2" dur="2.8s" repeatCount="indefinite"/></rect></g>
+</svg>

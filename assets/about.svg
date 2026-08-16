@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img">
+  <rect x="2" y="2" width="1196" height="356" rx="18" fill="#07090d" stroke="#27303a" stroke-width="2"/>
+  <text x="42" y="40" fill="#4da3ff" font-family="ui-monospace, monospace" font-size="18" font-weight="700">ABOUT ME</text>
+  <g transform="translate(40,70)"><rect width="1120" height="210" rx="12" fill="#080b10" stroke="#27303a"/><rect width="1120" height="44" rx="12" fill="#11151c"/>
+    <rect y="43" width="1120" height="1" fill="#27303a"/>
+    <circle cx="24" cy="22" r="6" fill="#6c737c"/><circle cx="46" cy="22" r="6" fill="#8b929b"/><circle cx="68" cy="22" r="6" fill="#b7bec7"/>
+    <text x="560" y="27" text-anchor="middle" fill="#77818d" font-family="ui-monospace, monospace" font-size="12">parnilv06@github:~$ cat about.md</text>
+<g font-family="ui-monospace, monospace" font-size="17"><text x="28" y="82"><tspan fill="#4da3ff">parnilv06@github</tspan><tspan fill="#dfe4ea">:~$ cat about.md</tspan></text>
+<text x="28" y="118" fill="#e8ebef">Programmer | B.Tech CSE Student @ MIT ADT x Kalvium</text><text x="28" y="148" fill="#e8ebef">Full-Stack Developer | Coding up to the Future 🚀</text>
+<text x="28" y="190" fill="#8ac7ff">&gt; open to collaboration</text></g></g>
+<rect x="40" y="300" width="1120" height="34" rx="8" fill="#0d1620" stroke="#1f4f7a"/>
+<text x="56" y="322" fill="#77818d" font-family="ui-sans-serif, system-ui" font-size="14">I like turning rough ideas into shipped software with a clean product surface.</text>
+</svg>
